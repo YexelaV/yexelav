@@ -2,13 +2,11 @@
 
 I'm **Aleksey**, a **Senior Flutter Developer** from "sunny" St. Petersburg (RU) ⚓🌦️
 
-🏆 I have **7+ years** of experience in IT — mobile development and QA
+🏆 I have **7+ years** of experience in mobile development
 
 📱 I build **cross-platform mobile apps** with Flutter, and I'm comfortable dropping down to **native iOS (Swift/Objective-C)** and **Android (Kotlin/Java)** whenever a feature needs it
 
 🏦 I currently work at the fintech company **PashaPay**, building **m10** — Azerbaijan's #1 finance app (5M+ users)
-
-🧪 I started my career as a **QA Engineer**, which still shows in how I care about testing, tooling and code quality
 
 📄 Want to know more about my experience? Feel free to request my CV by email or Telegram
 
